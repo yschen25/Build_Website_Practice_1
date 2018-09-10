@@ -8,7 +8,7 @@
 * **2018.9.06**
 
         * Optimizing css style, e.g., using image sprites
-        * Optimizing layout, e.g., input、hyper link、transition
+        * Optimizing layout, e.g., input, hyperlink, transition
         * Fixing bugs
 <br/>
 
