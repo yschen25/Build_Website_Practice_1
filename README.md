@@ -1,11 +1,11 @@
 # Website_Building_Practice_1
 
-         * To practice build a website
+         * To practice build the website
 <br/>
 
 ## Update
 
-* **2018.9.06**
+* **2018.09.06**
 
         * Optimizing css style, e.g., using image sprites
         * Optimizing layout, e.g., input, hyperlink, transition
