@@ -1,15 +1,14 @@
-# Build_Website_Practice_1
+# Website_Building_Practice_1
 
          * To practice build website
-         
-         
-## Description
 
-It's the second version that I optimize some parts
+## Update
 
-        * Optimize css style, e.g., use image sprites
-        * Optimize layout, e.g., input、hyper link、transition
-        * Fix bugs
+* **2018.9.06**
+
+        * Optimizing css style, e.g., using image sprites
+        * Optimizing layout, e.g., input、hyper link、transition
+        * Fixing bugs
         
 ## References
-Unknown, if someone who know about the sources plz contact me, I will add on it 
+Unknown, if someone who knows about the source plz contact me, I will add it 
