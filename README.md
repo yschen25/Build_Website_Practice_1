@@ -1,6 +1,12 @@
 # Website_Building_Practice_1
 
-         * To practice build the website
+To practice build the website.
+<br/>
+<br/>
+
+## Demo
+
+### **[WEBSITE BUILDING PRACTICE 1](https://yschen25.github.io/Website_Building_Practice_1/) -> Where You Can See the Website**
 <br/>
 
 ## Update
@@ -13,4 +19,4 @@
 <br/>
 
 ## References
-Unknown, if someone who knows about the source plz contact me, I will add it 
+Unknown, if someone who knows about the source plz contact me, I will add it.
