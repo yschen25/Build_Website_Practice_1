@@ -1,7 +1,6 @@
 # Website_Building_Practice_1
 
-To practice build the website.
-<br/>
+To practice build the website, take the other website as a template to practice.<br/>
 <br/>
 
 ## Demo
